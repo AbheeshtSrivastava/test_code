@@ -1,0 +1,26 @@
+tech startup growth 7%
+tech startup decline 29%
+
+spurring (growth) produc to of tech industry:-
+1. global market reach
+2. cloud services- aws , ibm , azure, etc
+3. invester- 100 angel investor in 2020
+4. talent pool
+
+"inmobi"  first unicorn of india
+
+categorization of products:-
+    1. by industry- Finance, health, retail, travel
+    2. by technology- Ai/Ml, iot, etc
+    3. B2B,B2C
+    4. SaaS vs On-Premise
+    5. Mobile vs Web
+    6. Regular vs API Products
+    7. Product vs Product-cum-service
+    8. product(paytm), product platform(ola), product line(office for mac,           
+       windows)
+
+
+product platform:-the technical foundation on which every software products      
+                  are based
+              ex -AWS,Android,Paypal,Uber
